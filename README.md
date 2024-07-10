@@ -2,7 +2,7 @@
 
 <img align="right" src="https://media2.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width='150'/> 
 
-[ ![LinkedIn](https://img.shields.io/badge/LinkedIn-4682B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ertugrulsagdic)
+[ ![LinkedIn](https://img.shields.io/badge/LinkedIn-4682B4?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/ertugrulsagdic)
 
 I am a software engineer passionate about developing software that makes a difference. I'm always looking to learn more and improve what I do. My goal is to become a well-known and respected software engineer, creating tools that help improve people's lives. I value honesty, responsibility, and ethical behavior very highly, and I aim to reflect these values in my work, ensuring everything I do is done well and with integrity.
 
