@@ -1,6 +1,6 @@
-<h2> Hi there, I'm Ertugrul <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px"></h2>
+<h2> Hi there, I'm Ertugrul <img src="https://github.com/ertugrulsagdic/ertugrulsagdic/blob/main/Hi.gif" height="25px"></h2>
 
-<img align="right" src="https://media2.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width='150'/> 
+<img align="right" src="https://raw.githubusercontent.com/ertugrulsagdic/ertugrulsagdic/main/coder.webp" width='150'/> 
 
 [ ![LinkedIn](https://img.shields.io/badge/LinkedIn-4682B4?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/ertugrulsagdic)
 
